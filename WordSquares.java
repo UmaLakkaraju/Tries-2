@@ -130,6 +130,7 @@ public class WordSquares {
             for (String word : s) {
                 System.out.print(word + " ");
             }
+
             System.out.println();
         }
     }
